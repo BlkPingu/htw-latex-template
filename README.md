@@ -1,5 +1,5 @@
-#HTW Berlin Thesis LaTeX Template
-This is an <b>unofficial</b> HTW Berlin LaTeX template for a master/bachelor thesis. The style is similar to the official .doc template.
+# Unofficial LaTeX Template for Thesis at HTW Berlin
+This is an <b>unofficial</b> LaTeX template for a master/bachelor thesis written at HTW Berlin. The style is similar to the official .doc template.
 
 ## Usage:
 * clone git repository
